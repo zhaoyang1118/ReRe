@@ -1,0 +1,825 @@
+//Microsoft Developer Studio generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// Chinese (P.R.C.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+#ifdef _WIN32
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+#pragma code_page(936)
+#endif //_WIN32
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE DISCARDABLE 
+BEGIN
+    "#define _AFX_NO_SPLITTER_RESOURCES\r\n"
+    "#define _AFX_NO_OLE_RESOURCES\r\n"
+    "#define _AFX_NO_TRACKER_RESOURCES\r\n"
+    "#define _AFX_NO_PROPERTY_RESOURCES\r\n"
+    "\r\n"
+    "#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)\r\n"
+    "#ifdef _WIN32\r\n"
+    "LANGUAGE 9, 1\r\n"
+    "#pragma code_page(1252)\r\n"
+    "#endif //_WIN32\r\n"
+    "#include ""res\\RelaxReminder.rc2""  // non-Microsoft Visual C++ edited resources\r\n"
+    "#include ""afxres.rc""         // Standard components\r\n"
+    "#endif\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDR_MAINFRAME           ICON    DISCARDABLE     "res\\icon\\Icon_Main.ico"
+IDI_ICON1               ICON    DISCARDABLE     "res\\icon\\Icon_Green_01.ico"
+IDI_ICON2               ICON    DISCARDABLE     "res\\icon\\Icon_Green_02.ico"
+IDI_ICON3               ICON    DISCARDABLE     "res\\icon\\Icon_Green_03.ico"
+IDI_ICON4               ICON    DISCARDABLE     "res\\icon\\Icon_Green_04.ico"
+IDI_ICON5               ICON    DISCARDABLE     "res\\icon\\Icon_Green_05.ico"
+IDI_ICON6               ICON    DISCARDABLE     "res\\icon\\Icon_Green_06.ico"
+IDI_ICON7               ICON    DISCARDABLE     "res\\icon\\Icon_Green_07.ico"
+IDI_ICON8               ICON    DISCARDABLE     "res\\icon\\Icon_Green_08.ico"
+IDI_ICON9               ICON    DISCARDABLE     "res\\icon\\Icon_Green_09.ico"
+IDI_ICON10              ICON    DISCARDABLE     "res\\icon\\Icon_Green_10.ico"
+IDI_ICON11              ICON    DISCARDABLE     "res\\icon\\Icon_Green_11.ico"
+IDI_ICON12              ICON    DISCARDABLE     "res\\icon\\Icon_Green_12.ico"
+IDI_ICON13              ICON    DISCARDABLE     "res\\icon\\Icon_Green_13.ico"
+IDI_ICON14              ICON    DISCARDABLE     "res\\icon\\Icon_Green_14.ico"
+IDI_ICON15              ICON    DISCARDABLE     "res\\icon\\Icon_Green_15.ico"
+IDI_ICON16              ICON    DISCARDABLE     "res\\icon\\Icon_Red_01.ico"
+IDI_ICON17              ICON    DISCARDABLE     "res\\icon\\Icon_Red_02.ico"
+IDI_ICON18              ICON    DISCARDABLE     "res\\icon\\Icon_Red_03.ico"
+IDI_ICON19              ICON    DISCARDABLE     "res\\icon\\Icon_Red_04.ico"
+IDI_ICON20              ICON    DISCARDABLE     "res\\icon\\Icon_Red_05.ico"
+IDI_ICON21              ICON    DISCARDABLE     "res\\icon\\Icon_Red_06.ico"
+IDI_ICON22              ICON    DISCARDABLE     "res\\icon\\Icon_Red_07.ico"
+IDI_ICON23              ICON    DISCARDABLE     "res\\icon\\Icon_Red_08.ico"
+IDI_ICON24              ICON    DISCARDABLE     "res\\icon\\Icon_Red_09.ico"
+IDI_ICON25              ICON    DISCARDABLE     "res\\icon\\Icon_Red_10.ico"
+IDI_ICON26              ICON    DISCARDABLE     "res\\icon\\Icon_Red_11.ico"
+IDI_ICON27              ICON    DISCARDABLE     "res\\icon\\Icon_Red_12.ico"
+IDI_ICON28              ICON    DISCARDABLE     "res\\icon\\Icon_Red_13.ico"
+IDI_ICON29              ICON    DISCARDABLE     "res\\icon\\Icon_Red_14.ico"
+IDI_ICON30              ICON    DISCARDABLE     "res\\icon\\Icon_Red_15.ico"
+IDI_ICON31              ICON    DISCARDABLE     "res\\icon\\Icon_Pause_01.ico"
+IDI_ICON32              ICON    DISCARDABLE     "res\\icon\\Icon_Pause_02.ico"
+IDI_ICON33              ICON    DISCARDABLE     "res\\icon\\Icon_Pause_03.ico"
+IDI_ICON34              ICON    DISCARDABLE     "res\\icon\\Icon_Pause_04.ico"
+IDI_ICON35              ICON    DISCARDABLE     "res\\icon\\Icon_Pause_05.ico"
+IDI_ICON36              ICON    DISCARDABLE     "res\\icon\\Icon_Pause_06.ico"
+IDI_ICON37              ICON    DISCARDABLE     "res\\icon\\Icon_Pause_07.ico"
+IDI_ICON38              ICON    DISCARDABLE     "res\\icon\\Icon_Pause_08.ico"
+IDI_ICON39              ICON    DISCARDABLE     "res\\icon\\Icon_Pause_09.ico"
+IDI_ICON40              ICON    DISCARDABLE     "res\\icon\\Icon_Pause_10.ico"
+IDI_ICON41              ICON    DISCARDABLE     "res\\icon\\Icon_Pause_11.ico"
+IDI_ICON42              ICON    DISCARDABLE     "res\\icon\\Icon_Pause_12.ico"
+IDI_ICON43              ICON    DISCARDABLE     "res\\icon\\Icon_Pause_13.ico"
+IDI_ICON44              ICON    DISCARDABLE     "res\\icon\\Icon_Pause_14.ico"
+IDI_ICON45              ICON    DISCARDABLE     "res\\icon\\Icon_Pause_15.ico"
+IDI_ICON_RESET_01       ICON    DISCARDABLE     "res\\icon\\Icon_Reset_01.ico"
+IDI_ICON_RESET_02       ICON    DISCARDABLE     "res\\icon\\Icon_Reset_02.ico"
+#endif    // Chinese (P.R.C.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+/////////////////////////////////////////////////////////////////////////////
+// English (U.S.) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE LANG_ENGLISH, SUBLANG_ENGLISH_US
+#pragma code_page(1252)
+#endif //_WIN32
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog
+//
+
+IDD_DIALOG_ABOUT_CHANGELOG DIALOG DISCARDABLE  0, 0, 250, 150
+STYLE WS_CHILD
+FONT 8, "Tahoma"
+BEGIN
+    GROUPBOX        "[ A brief history of ReRe ]",IDC_STATIC_HISTORY,7,7,236,
+                    136
+    LTEXT           "change log",IDC_STATIC_CHANGELOG,13,17,223,123
+END
+
+IDD_DIALOG_OPTION DIALOGEX 0, 0, 326, 237
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "ReRe (Option)"
+FONT 8, "Tahoma", 0, 0, 0x1
+BEGIN
+    CONTROL         "Time",IDC_RADIO_OPTION_TIME,"Button",BS_AUTORADIOBUTTON | 
+                    BS_PUSHLIKE | WS_GROUP,7,7,60,20,WS_EX_STATICEDGE
+    CONTROL         "Notify",IDC_RADIO_OPTION_NOTIFY,"Button",
+                    BS_AUTORADIOBUTTON | BS_PUSHLIKE,7,26,60,20,
+                    WS_EX_STATICEDGE
+    CONTROL         "Auto Away",IDC_RADIO_OPTION_AUTO_AWAY,"Button",
+                    BS_AUTORADIOBUTTON | BS_PUSHLIKE,7,45,60,20,
+                    WS_EX_STATICEDGE
+    CONTROL         "Language",IDC_RADIO_OPTION_LANGUAGE,"Button",
+                    BS_AUTORADIOBUTTON | BS_PUSHLIKE,7,64,60,20,
+                    WS_EX_STATICEDGE
+    CONTROL         "Misc",IDC_RADIO_OPTION_MISC,"Button",BS_AUTORADIOBUTTON | 
+                    BS_PUSHLIKE,7,83,60,20,WS_EX_STATICEDGE
+    PUSHBUTTON      "Reset",IDC_BUTTON_RESET,7,216,41,14
+    PUSHBUTTON      "Apply",IDC_BUTTON_APPLY,200,216,50,14
+    PUSHBUTTON      "Save",IDC_BUTTON_SAVE,269,216,50,14
+    LTEXT           "",IDC_STATIC_PLAT,66,7,253,205,NOT WS_GROUP,
+                    WS_EX_DLGMODALFRAME
+END
+
+IDD_DIALOG_OPTION_TIME DIALOG DISCARDABLE  0, 0, 250, 203
+STYLE WS_CHILD
+FONT 8, "Tahoma"
+BEGIN
+    COMBOBOX        IDC_COMBO_WORK_DURATION,86,21,34,57,CBS_DROPDOWN | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_COMBO_SHORT_RELAX_DURATION,86,38,34,54,CBS_DROPDOWN | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_COMBO_LONG_RELAX_FREQUENCY,86,84,34,52,CBS_DROPDOWN | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_COMBO_LONG_RELAX_DURATION,86,101,34,50,CBS_DROPDOWN | 
+                    WS_TABSTOP
+    RTEXT           "Work Duration:",IDC_STATIC_SHORT_RELAX_WD,33,23,50,8
+    RTEXT           "Relax Duration:",IDC_STATIC_SHORT_RELAX_SRD,32,40,51,8
+    GROUPBOX        "Short Relax",IDC_STATIC_SHORT_RELAX,7,7,157,52
+    GROUPBOX        "",IDC_STATIC,7,69,157,52
+    RTEXT           "Every Short Relax:",IDC_STATIC_LONG_RELAX_LRF,21,86,62,
+                    8
+    RTEXT           "Relax Duration:",IDC_STATIC_LONG_RELAX_LRD,32,103,51,8
+    LTEXT           "minutes",IDC_STATIC_SHORT_RELAX_WD_UNIT,124,23,26,8
+    LTEXT           "minutes",IDC_STATIC_SHORT_RELAX_SRD_UNIT,124,40,26,8
+    LTEXT           "minutes",IDC_STATIC_LONG_RELAX_LRD_UNIT,124,103,26,8
+    LTEXT           "times",IDC_STATIC_LONG_RELAX_LRF_UNIT,124,86,18,8
+    CONTROL         "Long Relax",IDC_CHECK_ENABLE_LONG_RELAX,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,13,69,48,10
+    LTEXT           "Setting Reference\n------------------------\n Recommand:\n  Work: 45 minutes\n  Relax: 5 minutes\n------------------------\n Forbid:\n  Work < 5 minutes\n  Relax < 1 minutes\n------------------------",
+                    IDC_STATIC_SETTING_REFERENCE,176,11,67,100
+    LTEXT           "Tips: Proper setting protects you from Repetitive Strain Injury (RSI).",
+                    IDC_STATIC_TIPS,7,134,221,8
+    PUSHBUTTON      "",IDC_BUTTON_NEXT,213,122,20,16
+    GROUPBOX        "START",IDC_STATIC_START,207,111,34,36,BS_CENTER
+END
+
+IDD_DIALOG_OPTION_NOTIFY DIALOG DISCARDABLE  0, 0, 250, 203
+STYLE WS_CHILD
+FONT 8, "Tahoma"
+BEGIN
+    GROUPBOX        "",IDC_STATIC,7,20,236,29
+    GROUPBOX        "",IDC_STATIC,7,55,236,73
+    CONTROL         "Pre-Notify    (nofity me 1 minute before relax)",
+                    IDC_CHECK_PRENOTIFY,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,13,7,163,10
+    CONTROL         "Lock Input    (disable keyboard or mouse during relax)",
+                    IDC_CHECK_LOCK_INPUT,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,13,20,188,10
+    CONTROL         "Keyboard",IDC_RADIO_LOCK_KEYBOARD,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,27,33,47,10
+    CONTROL         "Mouse",IDC_RADIO_LOCK_MOUSE,"Button",BS_AUTORADIOBUTTON,
+                    90,33,37,10
+    CONTROL         "Both (Recommand)",IDC_RADIO_LOCK_BOTH,"Button",
+                    BS_AUTORADIOBUTTON,143,33,77,10
+    CONTROL         "Slider1",IDC_SLIDER_ALPHA,"msctls_trackbar32",
+                    TBS_NOTICKS | WS_TABSTOP,13,88,106,12
+    CONTROL         "Black",IDC_RADIO_COLOR_BLACK,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,135,81,37,8
+    CONTROL         "Custom",IDC_RADIO_COLOR_CUSTOM,"Button",
+                    BS_AUTORADIOBUTTON,135,93,37,8
+    CONTROL         "Off",IDC_RADIO_ANIMATION_OFF,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,193,81,27,8
+    CONTROL         "Fast",IDC_RADIO_ANIMATION_FAST,"Button",
+                    BS_AUTORADIOBUTTON,193,93,30,8
+    CONTROL         "Medium",IDC_RADIO_ANIMATION_MEDIUM,"Button",
+                    BS_AUTORADIOBUTTON,193,104,40,8
+    CONTROL         "Slow",IDC_RADIO_ANIMATION_SLOW,"Button",
+                    BS_AUTORADIOBUTTON,193,115,31,8
+    GROUPBOX        "Transparency",IDC_STATIC_SCREEN_MASK_TRANSPARENCY,7,69,
+                    118,59,BS_CENTER
+    GROUPBOX        "Animation",IDC_STATIC_SCREEN_MASK_ANIMATION,183,69,60,
+                    59,BS_CENTER
+    CONTROL         "Screen Mask     (show screen mask during relax)",
+                    IDC_CHECK_DARKER_SCREEN,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,13,55,169,10
+    LTEXT           "transparent",
+                    IDC_STATIC_SCREEN_MASK_TRANSPARENCY_TRANSPARENT,17,103,
+                    39,8
+    GROUPBOX        "Color",IDC_STATIC_SCREEN_MASK_COLOR,124,69,60,59,
+                    BS_CENTER
+    CONTROL         "",IDC_STATIC_COLOR,"Static",SS_ETCHEDFRAME,137,105,34,
+                    16
+    LTEXT           "opaque",IDC_STATIC_SCREEN_MASK_TRANSPARENCY_OPAQUE,91,
+                    103,25,8
+    GROUPBOX        "Multi-Monitor",IDC_STATIC_MULTIMON,7,134,236,62
+    GROUPBOX        "Screen Mask",IDC_STATIC_MULTIMON_DARKER_SCREEN,7,146,
+                    118,50,BS_CENTER
+    GROUPBOX        "Notify Window",IDC_STATIC_MULTIMON_NOTIFY_WINDOW,124,
+                    146,119,50,BS_CENTER
+    CONTROL         "Master monitor only",
+                    IDC_RADIO_MULTIMON_DARKER_SCREEN_MASTER,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,26,158,79,10
+    CONTROL         "Cursor monitor only",
+                    IDC_RADIO_MULTIMON_DARKER_SCREEN_CURSOR,"Button",
+                    BS_AUTORADIOBUTTON,26,170,79,10
+    CONTROL         "All monitors",IDC_RADIO_MULTIMON_DARKER_SCREEN_ALL,
+                    "Button",BS_AUTORADIOBUTTON,26,182,53,10
+    CONTROL         "Master monitor only",
+                    IDC_RADIO_MULTIMON_NOTIFY_WINDOW_MASTER,"Button",
+                    BS_AUTORADIOBUTTON | WS_GROUP,144,158,79,10
+    CONTROL         "Cursor monitor only",
+                    IDC_RADIO_MULTIMON_NOTIFY_WINDOW_CURSOR,"Button",
+                    BS_AUTORADIOBUTTON,144,170,79,10
+END
+
+IDD_RELAXREMINDER_DIALOG DIALOGEX 0, 0, 50, 14
+STYLE WS_POPUP | WS_BORDER
+EXSTYLE WS_EX_APPWINDOW
+FONT 7, "Tahoma", 0, 0, 0x1
+BEGIN
+    CTEXT           "00:00",IDC_STATIC_TIMETIPS,0,0,50,14,SS_CENTERIMAGE
+END
+
+IDD_DIALOG_OPTION_AUTO_AWAY DIALOG DISCARDABLE  0, 0, 250, 203
+STYLE WS_CHILD
+FONT 8, "Tahoma"
+BEGIN
+    GROUPBOX        "Auto-Pause",IDC_STATIC_AUTO_PAUSE,7,7,236,57
+    GROUPBOX        "Auto-Reset",IDC_STATIC_AUTO_RESET,7,79,236,43
+    CONTROL         "After",IDC_CHECK_ENABLE_AUTO_PAUSE,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,32,24,33,8
+    CONTROL         "After",IDC_CHECK_ENABLE_AUTO_RESET,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,32,99,33,8
+    COMBOBOX        IDC_COMBO_AUTO_PAUSE_THRESHOLD,66,22,26,50,CBS_DROPDOWN | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_COMBO_AUTO_RESET_THRESHOLD,66,97,26,50,CBS_DROPDOWN | 
+                    WS_TABSTOP
+    LTEXT           "minutes idle",IDC_STATIC_AUTO_PAUSE_IDLE,96,24,133,8
+    LTEXT           "minutes idle",IDC_STATIC_AUTO_RESET_IDLE,96,99,133,8
+    CONTROL         "When fullscreen mode (eg: movie, game)",
+                    IDC_CHECK_FULLSCREEN_PAUSE,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,32,41,197,10
+END
+
+IDD_DIALOG_TRAY_WINDOW DIALOGEX 0, 0, 104, 40
+STYLE WS_POPUP
+FONT 9, "Tahoma", 0, 0, 0x1
+BEGIN
+    CONTROL         "",IDC_STATIC,"Static",SS_ETCHEDFRAME,0,0,104,40,
+                    WS_EX_DLGMODALFRAME
+    LTEXT           "SHORT\nRELAX",IDC_STATIC_CAPTION,28,5,25,16,WS_DISABLED
+    CTEXT           "00:00",IDC_STATIC_TIMETIPS,55,6,41,15,SS_CENTERIMAGE
+    PUSHBUTTON      "Delay",IDC_BUTTON_DELAY,4,24,32,12
+    ICON            IDR_MAINFRAME,IDC_STATIC,5,4,20,20
+    PUSHBUTTON      "Skip",IDC_BUTTON_SKIP,36,24,32,12
+    PUSHBUTTON      "Hide",IDC_BUTTON_HIDE,68,24,32,12
+END
+
+IDD_DIALOG_ABOUT DIALOGEX 0, 0, 326, 166
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "ReRe (About)"
+FONT 8, "Tahoma", 0, 0, 0x1
+BEGIN
+    CONTROL         "About",IDC_RADIO_ABOUT_ABOUT,"Button",
+                    BS_AUTORADIOBUTTON | BS_PUSHLIKE | WS_GROUP,7,7,60,20,
+                    WS_EX_STATICEDGE
+    CONTROL         "Thanks",IDC_RADIO_ABOUT_THANKS,"Button",
+                    BS_AUTORADIOBUTTON | BS_PUSHLIKE,7,26,60,20,
+                    WS_EX_STATICEDGE
+    CONTROL         "Changelog",IDC_RADIO_ABOUT_CHANGELOG,"Button",
+                    BS_AUTORADIOBUTTON | BS_PUSHLIKE,7,45,60,20,
+                    WS_EX_STATICEDGE
+    CONTROL         "Statistics",IDC_RADIO_ABOUT_STATISTICS,"Button",
+                    BS_AUTORADIOBUTTON | BS_PUSHLIKE,7,64,60,20,
+                    WS_EX_STATICEDGE
+    LTEXT           "",IDC_STATIC_PLAT,66,7,253,152,NOT WS_GROUP,
+                    WS_EX_DLGMODALFRAME
+    CONTROL         "Donate",IDC_RADIO_ABOUT_DONATE,"Button",
+                    BS_AUTORADIOBUTTON | BS_PUSHLIKE,7,83,60,20,
+                    WS_EX_STATICEDGE
+END
+
+IDD_DIALOG_ABOUT_ABOUT DIALOG DISCARDABLE  0, 0, 250, 150
+STYLE WS_CHILD
+FONT 8, "Tahoma"
+BEGIN
+    LTEXT           "ReRe (Relax Reminder)",IDC_STATIC_APPINFO_APPNAME,29,85,
+                    76,8
+    LTEXT           "version xx.xx.xx (build xxxxx)",IDC_STATIC_VERSION,130,
+                    85,100,8
+    LTEXT           "CopyRight (C) 2009-20xx YuZhaoYang",
+                    IDC_STATIC_COPYRIGHT,29,99,161,8
+    CONTROL         222,IDC_STATIC,"Static",SS_BITMAP,29,14,43,39
+    CTEXT           "Dedicated to",IDC_STATIC_DEDICATE,89,30,42,8
+    LTEXT           "#NAME#",IDC_STATIC_DEDICATED,134,11,88,47,
+                    SS_CENTERIMAGE
+    GROUPBOX        "[ Application Info ]",IDC_STATIC_APPINFO,7,67,236,76
+    LTEXT           "#HOMEPAGE#",IDC_STATIC_AUTHOR_HOMEPAGE,29,126,72,8
+    EDITTEXT        IDC_EDIT_IMAGE_PATH,29,113,191,12,ES_AUTOHSCROLL | 
+                    ES_READONLY | NOT WS_BORDER
+    LTEXT           "#EMAIL#",IDC_STATIC_AUTHOR_EMAIL,130,126,87,8
+END
+
+IDD_DIALOG_ABOUT_THANKS DIALOG DISCARDABLE  0, 0, 250, 150
+STYLE WS_CHILD
+FONT 8, "Tahoma"
+BEGIN
+    GROUPBOX        "[ Many thanks to the contributers ]",
+                    IDC_STATIC_CONTAINER_CONTRIBUTERS,7,7,236,73
+    GROUPBOX        "[ Special thanks to the external codes and libraries ]",
+                    IDC_STATIC_CONTAINER_EXTERNALS,7,84,236,59
+    LTEXT           "contributers",IDC_STATIC_CONTRIBUTERS,13,17,223,59
+    LTEXT           "external contributers",IDC_STATIC_EXTERNAL_CONTRIBUTERS,
+                    13,95,223,44
+END
+
+IDD_DIALOG_ABOUT_STATISTICS DIALOG DISCARDABLE  0, 0, 250, 150
+STYLE WS_CHILD
+FONT 8, "Tahoma"
+BEGIN
+    CONTROL         "List1",IDC_LIST_STATISTIC,"SysListView32",LVS_REPORT | 
+                    WS_BORDER | WS_TABSTOP,7,7,236,136
+END
+
+IDD_DIALOG_DARKER_SCREEN DIALOG DISCARDABLE  0, 0, 187, 96
+STYLE WS_POPUP
+FONT 10, "Tahoma"
+BEGIN
+    LTEXT           "",IDC_STATIC_MASK,53,25,73,43
+END
+
+IDD_DIALOG_OPTION_MISC DIALOG DISCARDABLE  0, 0, 250, 203
+STYLE WS_CHILD
+FONT 8, "Tahoma"
+BEGIN
+    CONTROL         "Close monitor after 20-second relax",
+                    IDC_CHECK_CLOSE_MONITOR,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,22,31,205,10
+    CONTROL         "Lock computer after 17-second relax",
+                    IDC_CHECK_LOCK_COMPTER,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,22,17,205,10
+    CONTROL         "Enable event logging",IDC_CHECK_ENABLE_LOG,"Button",
+                    BS_AUTOCHECKBOX | WS_TABSTOP,22,98,83,10
+    COMBOBOX        IDC_COMBO_LOG_LEVEL,95,111,72,62,CBS_DROPDOWNLIST | 
+                    WS_TABSTOP
+    COMBOBOX        IDC_COMBO_LOG_FILE_SIZE,95,127,72,79,CBS_DROPDOWNLIST | 
+                    WS_TABSTOP
+    LTEXT           "Log level",IDC_STATIC_LOG_LEVEL,47,113,44,8
+    LTEXT           "Split file size",IDC_STATIC_LOG_FILE_SIZE,47,129,44,8
+    CONTROL         "Startup with Windows  (Note: add an item in registry!)",
+                    IDC_CHECK_AUTO_START,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,22,153,205,10
+    CONTROL         "Show floating window at program startup",
+                    IDC_CHECK_SHOW_FLOATING_WINDOW,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,22,57,205,10
+    CONTROL         "Show system tray icon at program startup",
+                    IDC_CHECK_SHOW_TRAY_ICON,"Button",BS_AUTOCHECKBOX | 
+                    WS_TABSTOP,22,71,205,10
+    GROUPBOX        "",IDC_STATIC,7,7,236,40
+    GROUPBOX        "",IDC_STATIC,7,47,236,40
+    GROUPBOX        "",IDC_STATIC,7,87,236,60
+END
+
+IDD_DIALOG_OPTION_LANGUAGE DIALOGEX 0, 0, 250, 203
+STYLE WS_CHILD
+FONT 8, "Tahoma", 0, 0, 0x1
+BEGIN
+    GROUPBOX        "Select Language for ReRe",IDC_STATIC_LANGUAGE_SELECT,7,
+                    7,236,189
+    CONTROL         "List1",IDC_LIST_LANGUAGES,"SysListView32",LVS_REPORT | 
+                    WS_TABSTOP,13,18,223,119,WS_EX_STATICEDGE
+    CTEXT           "No language file found!",IDC_STATIC_NO_LANGUAGE_FILE,47,
+                    68,155,8
+    LTEXT           "New languages can be added by modifying the <language.ini> file.",
+                    IDC_STATIC_TIPS,15,150,216,8
+END
+
+IDD_DIALOG_PLUGINS_MANAGER DIALOGEX 0, 0, 311, 263
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "ReRe (Plugins Manager)"
+FONT 8, "Tahoma", 0, 0, 0x1
+BEGIN
+    DEFPUSHBUTTON   "OK",IDOK,198,242,50,14
+    PUSHBUTTON      "Cancel",IDCANCEL,254,242,50,14
+    PUSHBUTTON      "Select All",IDC_BUTTON_SELECT_ALL,7,242,50,14
+    PUSHBUTTON      "Select None",IDC_BUTTON_SELECT_NONE,63,242,50,14
+    CONTROL         "List1",IDC_LIST_PLUGINS,"SysListView32",LVS_REPORT | 
+                    LVS_SINGLESEL | WS_TABSTOP,7,7,297,227,WS_EX_CLIENTEDGE
+    LTEXT           "Plugins are not available.\nTry to get a FREE or DONATED license in ""About"" dialog.",
+                    IDC_STATIC_UNLICENSED_TIPS,7,240,239,16
+END
+
+IDD_DIALOG_ABOUT_DONATE DIALOG DISCARDABLE  0, 0, 250, 150
+STYLE WS_CHILD
+FONT 8, "Tahoma"
+BEGIN
+    LTEXT           "ReRe needs your donation for further development!",
+                    IDC_STATIC_DONATION_APPEAL,9,7,230,13
+    LTEXT           "#Donators#",IDC_STATIC_DONATORS,19,32,210,59
+    GROUPBOX        "Donation List",IDC_STATIC_DONATION_LIST,7,21,236,74
+    CONTROL         215,IDC_STATIC_PAYPAL_LOGO,"Static",SS_BITMAP,181,100,61,
+                    18
+    CONTROL         216,IDC_STATIC_ALIPAY_LOGO,"Static",SS_BITMAP,181,122,61,
+                    18
+    LTEXT           "You could send donation to the below account via the two online payment services on the right.",
+                    IDC_STATIC_TIPS,12,99,157,24
+    EDITTEXT        IDC_EDIT_DONATION_ACCOUNT,15,127,102,12,ES_AUTOHSCROLL | 
+                    ES_READONLY
+END
+
+IDD_DIALOG_SETUP_WIZARD DIALOGEX 0, 0, 267, 164
+STYLE DS_MODALFRAME | WS_POPUP | WS_CAPTION | WS_SYSMENU
+CAPTION "ReRe (Setup Wizard)"
+FONT 8, "Tahoma", 0, 0, 0x1
+BEGIN
+    LTEXT           "",IDC_STATIC_WIZARD_PLAT,7,5,253,152,NOT WS_VISIBLE | 
+                    NOT WS_GROUP,WS_EX_DLGMODALFRAME
+END
+
+IDD_DIALOG_SETUP_WIZARD_WELCOME DIALOG DISCARDABLE  0, 0, 250, 150
+STYLE WS_CHILD
+FONT 8, "Tahoma"
+BEGIN
+    LTEXT           "An Open-Source Relaxation Reminder.",IDC_STATIC_INTRO,
+                    62,135,124,8,WS_DISABLED
+    PUSHBUTTON      "",IDC_BUTTON_NEXT,91,41,64,64
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// DESIGNINFO
+//
+
+#ifdef APSTUDIO_INVOKED
+GUIDELINES DESIGNINFO DISCARDABLE 
+BEGIN
+    IDD_DIALOG_ABOUT_CHANGELOG, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 243
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 143
+    END
+
+    IDD_DIALOG_OPTION, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 319
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 230
+    END
+
+    IDD_DIALOG_OPTION_TIME, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 243
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 196
+    END
+
+    IDD_DIALOG_OPTION_NOTIFY, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 243
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 196
+    END
+
+    IDD_DIALOG_OPTION_AUTO_AWAY, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 243
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 196
+    END
+
+    IDD_DIALOG_ABOUT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 319
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 159
+    END
+
+    IDD_DIALOG_ABOUT_ABOUT, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 243
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 143
+    END
+
+    IDD_DIALOG_ABOUT_THANKS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 243
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 143
+    END
+
+    IDD_DIALOG_ABOUT_STATISTICS, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 243
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 143
+    END
+
+    IDD_DIALOG_DARKER_SCREEN, DIALOG
+    BEGIN
+        LEFTMARGIN, 6
+        RIGHTMARGIN, 180
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 89
+    END
+
+    IDD_DIALOG_OPTION_MISC, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 243
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 196
+    END
+
+    IDD_DIALOG_OPTION_LANGUAGE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 243
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 196
+    END
+
+    IDD_DIALOG_PLUGINS_MANAGER, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 304
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 256
+    END
+
+    IDD_DIALOG_ABOUT_DONATE, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 243
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 143
+    END
+
+    IDD_DIALOG_SETUP_WIZARD, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 260
+        TOPMARGIN, 5
+        BOTTOMMARGIN, 157
+    END
+
+    IDD_DIALOG_SETUP_WIZARD_WELCOME, DIALOG
+    BEGIN
+        LEFTMARGIN, 7
+        RIGHTMARGIN, 243
+        TOPMARGIN, 7
+        BOTTOMMARGIN, 143
+    END
+END
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Dialog Info
+//
+
+IDD_DIALOG_OPTION_TIME DLGINIT
+BEGIN
+    IDC_COMBO_WORK_DURATION, 0x403, 3, 0
+0x3032, "\000" 
+    IDC_COMBO_WORK_DURATION, 0x403, 3, 0
+0x3033, "\000" 
+    IDC_COMBO_WORK_DURATION, 0x403, 3, 0
+0x3534, "\000" 
+    IDC_COMBO_WORK_DURATION, 0x403, 3, 0
+0x3036, "\000" 
+    IDC_COMBO_SHORT_RELAX_DURATION, 0x403, 2, 0
+0x0031, 
+    IDC_COMBO_SHORT_RELAX_DURATION, 0x403, 2, 0
+0x0033, 
+    IDC_COMBO_SHORT_RELAX_DURATION, 0x403, 2, 0
+0x0035, 
+    IDC_COMBO_SHORT_RELAX_DURATION, 0x403, 3, 0
+0x3031, "\000" 
+    IDC_COMBO_LONG_RELAX_FREQUENCY, 0x403, 2, 0
+0x0031, 
+    IDC_COMBO_LONG_RELAX_FREQUENCY, 0x403, 2, 0
+0x0032, 
+    IDC_COMBO_LONG_RELAX_FREQUENCY, 0x403, 2, 0
+0x0033, 
+    IDC_COMBO_LONG_RELAX_FREQUENCY, 0x403, 2, 0
+0x0034, 
+    IDC_COMBO_LONG_RELAX_DURATION, 0x403, 3, 0
+0x3031, "\000" 
+    IDC_COMBO_LONG_RELAX_DURATION, 0x403, 3, 0
+0x3531, "\000" 
+    IDC_COMBO_LONG_RELAX_DURATION, 0x403, 3, 0
+0x3032, "\000" 
+    IDC_COMBO_LONG_RELAX_DURATION, 0x403, 3, 0
+0x3033, "\000" 
+    0
+END
+
+IDD_DIALOG_OPTION_AUTO_AWAY DLGINIT
+BEGIN
+    IDC_COMBO_AUTO_PAUSE_THRESHOLD, 0x403, 2, 0
+0x0031, 
+    IDC_COMBO_AUTO_PAUSE_THRESHOLD, 0x403, 2, 0
+0x0033, 
+    IDC_COMBO_AUTO_PAUSE_THRESHOLD, 0x403, 2, 0
+0x0035, 
+    IDC_COMBO_AUTO_PAUSE_THRESHOLD, 0x403, 3, 0
+0x3031, "\000" 
+    IDC_COMBO_AUTO_RESET_THRESHOLD, 0x403, 2, 0
+0x0035, 
+    IDC_COMBO_AUTO_RESET_THRESHOLD, 0x403, 3, 0
+0x3031, "\000" 
+    IDC_COMBO_AUTO_RESET_THRESHOLD, 0x403, 3, 0
+0x3531, "\000" 
+    IDC_COMBO_AUTO_RESET_THRESHOLD, 0x403, 3, 0
+0x3032, "\000" 
+    0
+END
+
+IDD_DIALOG_OPTION_MISC DLGINIT
+BEGIN
+    IDC_COMBO_LOG_LEVEL, 0x403, 7, 0
+0x6564, 0x6174, 0x6c69, "\000" 
+    IDC_COMBO_LOG_LEVEL, 0x403, 14, 0
+0x736d, 0x2067, 0x6428, 0x6665, 0x7561, 0x746c, 0x0029, 
+    IDC_COMBO_LOG_LEVEL, 0x403, 5, 0
+0x6177, 0x6e72, "\000" 
+    IDC_COMBO_LOG_LEVEL, 0x403, 6, 0
+0x7265, 0x6f72, 0x0072, 
+    IDC_COMBO_LOG_LEVEL, 0x403, 5, 0
+0x6166, 0x6c69, "\000" 
+    IDC_COMBO_LOG_FILE_SIZE, 0x403, 6, 0
+0x3436, 0x4b20, 0x0042, 
+    IDC_COMBO_LOG_FILE_SIZE, 0x403, 7, 0
+0x3231, 0x2038, 0x424b, "\000" 
+    IDC_COMBO_LOG_FILE_SIZE, 0x403, 17, 0
+0x3532, 0x2036, 0x424b, 0x2820, 0x6564, 0x6166, 0x6c75, 0x2974, "\000" 
+    IDC_COMBO_LOG_FILE_SIZE, 0x403, 7, 0
+0x3135, 0x2032, 0x424b, "\000" 
+    IDC_COMBO_LOG_FILE_SIZE, 0x403, 8, 0
+0x3031, 0x3432, 0x4b20, 0x0042, 
+    IDC_COMBO_LOG_FILE_SIZE, 0x403, 8, 0
+0x3032, 0x3834, 0x4b20, 0x0042, 
+    IDC_COMBO_LOG_FILE_SIZE, 0x403, 8, 0
+0x3034, 0x3639, 0x4b20, 0x0042, 
+    0
+END
+
+
+#ifndef _MAC
+/////////////////////////////////////////////////////////////////////////////
+//
+// Version
+//
+
+VS_VERSION_INFO VERSIONINFO
+ FILEVERSION 0,8,4,0
+ PRODUCTVERSION 0,8,4,0
+ FILEFLAGSMASK 0x3fL
+#ifdef _DEBUG
+ FILEFLAGS 0x9L
+#else
+ FILEFLAGS 0x8L
+#endif
+ FILEOS 0x4L
+ FILETYPE 0x1L
+ FILESUBTYPE 0x0L
+BEGIN
+    BLOCK "StringFileInfo"
+    BEGIN
+        BLOCK "040904b0"
+        BEGIN
+            VALUE "Comments", "ReRe is an open-source relaxation reminder.\0"
+            VALUE "CompanyName", "YuZhaoYang Software\0"
+            VALUE "FileDescription", "ReRe.exe (Compatible with Window 2000 / Windows XP / Windows 7)\0"
+            VALUE "FileVersion", "0, 8, 4, 0\0"
+            VALUE "InternalName", "RelaxReminder\0"
+            VALUE "LegalCopyright", "Copyright (C) 2009-2013 YuZhaoYang\0"
+            VALUE "LegalTrademarks", "\0"
+            VALUE "OriginalFilename", "ReRe.EXE\0"
+            VALUE "PrivateBuild", "build 00119\0"
+            VALUE "ProductName", "ReRe (RelaxReminder)\0"
+            VALUE "ProductVersion", "0, 8, 4, 0\0"
+            VALUE "SpecialBuild", "\0"
+        END
+    END
+    BLOCK "VarFileInfo"
+    BEGIN
+        VALUE "Translation", 0x409, 1200
+    END
+END
+
+#endif    // !_MAC
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Menu
+//
+
+IDR_MENU_TRAYMENU MENU DISCARDABLE 
+BEGIN
+    POPUP "Tray Menu"
+    BEGIN
+        MENUITEM "&Floating Window",            ID_MENU_MAIN_WINDOW, CHECKED
+        MENUITEM "System &Tray Icon",           ID_MENU_TRAY_ICON, CHECKED
+        MENUITEM SEPARATOR
+        MENUITEM "Start &Work",                 ID_MENU_START_WORK
+        MENUITEM "&Short Relax",                ID_MENU_SHORT_RELAX
+        MENUITEM "&Long Relax",                 ID_MENU_LONG_RELAX
+        MENUITEM "&Pause",                      ID_MENU_PAUSE, CHECKED
+        MENUITEM "&Reset",                      ID_MENU_RESET
+        MENUITEM SEPARATOR
+        MENUITEM "&Option...",                  ID_MENU_OPTION
+        MENUITEM SEPARATOR
+        MENUITEM "&About...",                   ID_MENU_ABOUT
+        MENUITEM "&Exit",                       ID_MENU_EXIT
+    END
+END
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_BITMAP_WIZARD_LOGO_IN BITMAP  DISCARDABLE     "res\\bmp\\Icon_Main_128x128_1.bmp"
+IDB_BITMAP_PAYPAL_LOGO  BITMAP  DISCARDABLE     "res\\bmp\\paypal.bmp"
+IDB_BITMAP_ALIPAY_LOGO  BITMAP  DISCARDABLE     "res\\bmp\\alipay.bmp"
+IDB_BITMAP_WIZARD_LOGO_OUT BITMAP  DISCARDABLE     "res\\bmp\\Icon_Main_128x128_0.bmp"
+IDB_BITMAP_LOGO         BITMAP  DISCARDABLE     "res\\bmp\\Icon_Main_64x64.bmp"
+#endif    // English (U.S.) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+#define _AFX_NO_SPLITTER_RESOURCES
+#define _AFX_NO_OLE_RESOURCES
+#define _AFX_NO_TRACKER_RESOURCES
+#define _AFX_NO_PROPERTY_RESOURCES
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_ENU)
+#ifdef _WIN32
+LANGUAGE 9, 1
+#pragma code_page(1252)
+#endif //_WIN32
+#include "res\RelaxReminder.rc2"  // non-Microsoft Visual C++ edited resources
+#include "afxres.rc"         // Standard components
+#endif
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
